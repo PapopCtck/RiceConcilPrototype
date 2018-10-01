@@ -1,0 +1,57 @@
+{
+    "Data":[{
+        "RequestID" : 1234,
+        "CompanyNameTH" : "ไทย เอ",
+        "CompanyNameEN" : "Thai A",
+        "RequireDate" : "2018-08-08",
+        "ShippingDate" : "2018-08-09",
+        "SurveyLocateName" : "ปากน้ำ",
+        "SurveyCompany" : "บริษัทน้ำไทย จำกัด",
+        "RequestBy" : "นาย อิธิพัฒณ์ นานา",
+        "TableDes" : [{
+            "RequestID" : 1234, 
+            "LicenseID" : "030811612314",
+            "RiceType" : 2,
+            "Quantity" : 1.4,
+            "BagType" : 1,
+            "GrossWeight" : 25,
+            "NetWeight" : 26,
+            "Logo" : "ElephantLuck",
+            "VehicleName" : "CarFlying",
+            "DestinationCity" : "Laos"
+        },
+        {
+            "RequestID" : 1234,
+            "LicenseID" : "030811612314",
+            "RiceType" : 1,
+            "Quantity" : 2.4,
+            "BagType" : 5,
+            "GrossWeight" : 12,
+            "NetWeight" : 14,
+            "Logo" : "FlyingDragon",
+            "VehicleName" : "Flying",
+            "DestinationCity" : "Maxico"
+        }]
+    },{
+        "RequestID" : 1235,
+        "CompanyNameTH" : "ไทย บี",
+        "CompanyNameEN" : "Thai B",
+        "RequireDate" : "2018-08-08",
+        "ShippingDate" : "2018-08-09",
+        "SurveyLocateName" : "ปากน้ำ",
+        "SurveyCompany" : "บริษัทน้ำไทยอิอิ จำกัด",
+        "RequestBy" : "นาย อิธิพัฒณ์ นานาไทย",
+        "TableDes" : [{
+            "RequestID" : 1234,
+            "LicenseID" : "030811612314",
+            "RiceType" : 2,
+            "Quantity" : 1.4,
+            "BagType" : 1,
+            "GrossWeight" : 25,
+            "NetWeight" : 26,
+            "Logo" : "ElephantLuck",
+            "VehicleName" : "CarFlying",
+            "DestinationCity" : "Laos"
+        }]   
+    }]
+}
